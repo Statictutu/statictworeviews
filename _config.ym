@@ -1,0 +1,5 @@
+title: Static Two Reviews
+description: A minimalist and futuristic movie & music review site
+theme: minima # This is a default Jekyll theme
+plugins:
+  - jekyll-feed
